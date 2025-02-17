@@ -12,7 +12,8 @@ docker pull ghcr.io/roro56458/usb2rtsp/usb2tortsp-0.16.0-ubuntu:latest
 
 Secondly, start the container:
 
-```bash docker run -d \
+```bash 
+docker run -d \
   --name usbtortsp \
   --network host \
   -p 554:554 \
