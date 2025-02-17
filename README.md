@@ -1,3 +1,6 @@
+This project has been put on hold
+
+
 # Welcome / Bonjour
 to the **usb2rtsp** project.  
 # This project allows you to turn your USB camera into an **RTSP** stream compatible with **Home Assistant, Frigate**, or any other RTSP-compatible NVR server.
