@@ -3,8 +3,9 @@ Bienvenue sur le projet **usb2rtsp**.
 Ce projet permet de transformer votre caméra USB en un flux **RTSP** compatible avec **Home Assistant, Frigate**, ou tout autre serveur NVR compatible RTSP.
 
 ## 📖 Documentation  
-```jsx
-test
+First, pull the image
+```bash
+
 ```
 
 ## 🛠️ Remerciements  
