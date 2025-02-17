@@ -1,6 +1,6 @@
 services:
   usbtortsp:
-    image: ghcr.io/roro56458/usb2rtsp/usb2tortsp-0.16.0-ubuntu:latest
+    build: .
     container_name: usbtortsp
     network_mode: "host"
     ports:
